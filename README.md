@@ -1,19 +1,42 @@
-<h1 align="center">안녕👋하세요, 저는 dongseop</h1>
-<h3입니다. align="center">안녕하세요</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dongseop8429&label=Profile%20views&color=0e75b6&style=flat" alt="dongseop8429" /> </p>
-
-- 💬 Ask m**html, java, css**
-
-에 📫 대해 e - 연락 방법 **dongseop8429@gmail.com**<
-
-h3 align="left">나와 연결하세요:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Coding+is+Magic;Building+the+Backend;WELCOME+TO+MY+PROFILE!" alt="Typing Animation"/>
 </p>
 
-<h3 align="left">언어 및 도구:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dongseop8429&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongseop8429&show_icons=true&locale=en" alt="dongseop8429" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dongseop8429&" alt="dongseop8429" /></p>
+<h2 align="center">✨ Developer's Journey</h2>
+
+<p align="center">
+  저는 **백엔드** 개발자입니다. 사용자 경험(UX)을 중요하게 생각하며, 효율적이고 안정적인 시스템 설계를 목표로 합니다. 코드를 통해 세상에 긍정적인 영향을 주는 것을 목표로 합니다.
+</p>
+
+### 💻 My Core Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,c,py,oracle,git,docker,vscode,postman" />
+  </a>
+</p>
+
+---
+
+## 🚀 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dongseop8429&show_icons=true&theme=aura&hide_border=true&title_color=64ffda&icon_color=ff6d00" alt="GitHub Stats" width="45%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongseop8429&layout=compact&langs_count=6&theme=aura&hide_border=true&title_color=64ffda&icon_color=ff6d00" alt="Top Languages" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongseop8429&theme=react-dark&hide_border=true&color=9933FF" alt="Activity Graph"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dongseop8429&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>

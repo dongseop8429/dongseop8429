@@ -36,5 +36,18 @@
 ---
 
 <div align="center">
+
+
+
+## 🧩 Public Projects
+
+### 🔹 학술제 백엔드 프로젝트
+- 역할: 백엔드 개발
+- GitHub: https://github.com/dongseop8429/레포이름
+
+### 🔹 개인 백엔드 실습
+- 내용: API 및 DB 연동 연습
+- GitHub: https://github.com/dongseop8429/레포이름
+
   <img src="https://komarev.com/ghpvc/?username=dongseop8429&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </div>
